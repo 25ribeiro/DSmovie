@@ -1,2 +1,2 @@
 # DSmovie
-Projeto criado na Semana Spring Reack 
+Projeto criado na Semana Spring React
