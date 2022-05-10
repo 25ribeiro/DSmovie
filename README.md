@@ -1,2 +1,2 @@
 # DSmovie
-Projeto criado na Semana Spring React
+Projeto de site de filmes da Semana Spring React do Dev Superior
